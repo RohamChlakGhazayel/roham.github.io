@@ -2,7 +2,7 @@
 title: Roham Chlac
 role: "A highly qualified and experienced Data Scientist with over 11 years'
   experience. "
-avatar_filename: 20211219_202016.jpg
+avatar_filename: hariri-micro-talking.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
