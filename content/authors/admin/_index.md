@@ -2,7 +2,7 @@
 title: Roham Chlak
 role: "A highly qualified and experienced Data Scientist with over 11 years'
   experience. "
-avatar_filename: ch-avatar.png
+avatar_filename: 20211219_s16.jpg
 bio: Data Scientist / Developer
 interests:
   - Artificial Intelligence
