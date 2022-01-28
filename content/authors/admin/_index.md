@@ -2,7 +2,7 @@
 title: Roham Chla88k
 role: "A highly qualified and experienced Data Scientist with over 11 years'
   experience. "
-avatar_filename: hariri-micro-talking.jpg
+avatar_filename: 20211219_202016.jpg
 bio: Data Scientist / Developer
 interests:
   - Artificial Intelligence
